@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiantaoy.github.io</id>
     <title>tiantaoy&apos;s room</title>
-    <updated>2022-05-13T10:05:33.521Z</updated>
+    <updated>2022-05-13T10:46:13.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiantaoy.github.io"/>
     <link rel="self" href="https://tiantaoy.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://tiantaoy.github.io/images/avatar.png</logo>
     <icon>https://tiantaoy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, tiantaoy&apos;s room</rights>
+    <entry>
+        <title type="html"><![CDATA[你是真能睡啊zmy]]></title>
+        <id>https://tiantaoy.github.io/post/ni-shi-zhen-neng-shui-a-zmy/</id>
+        <link href="https://tiantaoy.github.io/post/ni-shi-zhen-neng-shui-a-zmy/">
+        </link>
+        <updated>2022-05-13T10:45:30.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌈 Chinese Palace| AI generated]]></title>
         <id>https://tiantaoy.github.io/post/chinese-palaceor-ai-generated/</id>
