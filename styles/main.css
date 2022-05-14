@@ -875,6 +875,7 @@ figure figcaption {
   position: relative;
   background: #f5f8fa;
   background: linear-gradient(-150deg, transparent 1.5em, #ffffff 0);
+  font-size: 5px;
 }
 .post-content > blockquote::before {
   content: '';
@@ -888,6 +889,7 @@ figure figcaption {
   transform-origin: bottom right;
   border-bottom-left-radius: inherit;
   box-shadow: -0.2em 0.2em 0.3em -0.1em rgba(0, 0, 0, 0.15);
+  font-size: 5px;
 }
 .post-content img {
   max-width: 100%;
