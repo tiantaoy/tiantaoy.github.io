@@ -381,15 +381,28 @@ p {
 .fh5co-post-entry.single-entry .fh5co-article-title {
   font-size: 30px;
 }
+.fh5co-post-entry.single-entry .fh5co-article-content {
+  font-size: 15px;
+}
 @media screen and (max-width: 992px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
     font-size: 30px;
-    font-style: italic;
   }
 }
 @media screen and (max-width: 768px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
     font-size: 30px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .fh5co-post-entry.single-entry .fh5co-article-content {
+    font-size: 15px;
+    font-style: italic;
+  }
+}
+@media screen and (max-width: 768px) {
+  .fh5co-post-entry.single-entry .fh5co-article-content {
+    font-size: 15px;
   }
 }
 .fh5co-post-entry article {
