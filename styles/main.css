@@ -383,7 +383,8 @@ p {
 }
 @media screen and (max-width: 992px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
-    font-size: 56px;
+    font-size: 25px;
+    font-style: italic;
   }
 }
 @media screen and (max-width: 768px) {
