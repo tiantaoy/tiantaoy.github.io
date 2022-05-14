@@ -347,7 +347,7 @@ p {
 .fh5co-post-next span i {
   top: 7px;
   position: relative;
-  font-size: 30px;
+  font-size: 20px;
   color: #000;
 }
 .fh5co-post-prev {
@@ -379,16 +379,16 @@ p {
   }
 }
 .fh5co-post-entry.single-entry .fh5co-article-title {
-  font-size: 80px;
+  font-size: 40px;
 }
 @media screen and (max-width: 992px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
-    font-size: 56px;
+    font-size: 25px;
   }
 }
 @media screen and (max-width: 768px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
-    font-size: 34px;
+    font-size: 25px;
   }
 }
 .fh5co-post-entry article {
