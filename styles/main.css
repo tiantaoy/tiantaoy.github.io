@@ -382,7 +382,7 @@ p {
   font-size: 30px;
 }
 .fh5co-post-entry.single-entry .fh5co-article-content {
-  font-size: 15px;
+  font-size: 20px;
 }
 @media screen and (max-width: 992px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
@@ -396,13 +396,13 @@ p {
 }
 @media screen and (max-width: 992px) {
   .fh5co-post-entry.single-entry .fh5co-article-content {
-    font-size: 15px;
+    font-size: 20px;
     font-style: italic;
   }
 }
 @media screen and (max-width: 768px) {
   .fh5co-post-entry.single-entry .fh5co-article-content {
-    font-size: 15px;
+    font-size: 20px;
   }
 }
 .fh5co-post-entry article {
