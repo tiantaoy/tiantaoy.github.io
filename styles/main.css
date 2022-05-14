@@ -347,7 +347,7 @@ p {
 .fh5co-post-next span i {
   top: 7px;
   position: relative;
-  font-size: 20px;
+  font-size: 30px;
   color: #000;
 }
 .fh5co-post-prev {
@@ -378,23 +378,17 @@ p {
     float: right;
   }
 }
-.fh5co-article-content {
-  font-size: 18px;
-  line-height: 1.5;
-  font-weight: 300;
-  color: #000;
-}
 .fh5co-post-entry.single-entry .fh5co-article-title {
-  font-size: 40px;
+  font-size: 80px;
 }
 @media screen and (max-width: 992px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
-    font-size: 20px;
+    font-size: 56px;
   }
 }
 @media screen and (max-width: 768px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
-    font-size: 20px;
+    font-size: 34px;
   }
 }
 .fh5co-post-entry article {
@@ -426,7 +420,7 @@ p {
   }
 }
 .fh5co-post-entry article a img {
-  opacity: 0.8;
+  opacity: 1;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -475,7 +469,6 @@ p {
 }
 .fh5co-post-entry article .content-article {
   padding-top: 4em;
-  font-size: 5px;
 }
 .fh5co-post-entry article .content-article a {
   text-decoration: none;
@@ -882,7 +875,6 @@ figure figcaption {
   position: relative;
   background: #f5f8fa;
   background: linear-gradient(-150deg, transparent 1.5em, #ffffff 0);
-  font-size: 5px;
 }
 .post-content > blockquote::before {
   content: '';
@@ -896,7 +888,6 @@ figure figcaption {
   transform-origin: bottom right;
   border-bottom-left-radius: inherit;
   box-shadow: -0.2em 0.2em 0.3em -0.1em rgba(0, 0, 0, 0.15);
-  font-size: 5px;
 }
 .post-content img {
   max-width: 100%;
@@ -5158,31 +5149,30 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 30px;
+  font-size: 36px;
 }
 h2,
 .h2 {
-  font-size: 24px;
+  font-size: 30px;
 }
 h3,
 .h3 {
-  font-size: 18px;
+  font-size: 24px;
 }
 h4,
 .h4 {
-  font-size: 14px;
+  font-size: 18px;
 }
 h5,
 .h5 {
-  font-size: 12px;
+  font-size: 14px;
 }
 h6,
 .h6 {
-  font-size: 10px;
+  font-size: 12px;
 }
 p {
-  font-size: 5px;
-  margin: 0 0 5px;
+  margin: 0 0 10px;
 }
 .lead {
   margin-bottom: 20px;
@@ -5591,7 +5581,6 @@ pre code {
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 5.5px;
 }
 .col-xs-1,
 .col-xs-2,
