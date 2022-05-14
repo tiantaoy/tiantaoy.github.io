@@ -383,12 +383,12 @@ p {
 }
 @media screen and (max-width: 992px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 @media screen and (max-width: 768px) {
   .fh5co-post-entry.single-entry .fh5co-article-title {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 .fh5co-post-entry article {
@@ -420,7 +420,7 @@ p {
   }
 }
 .fh5co-post-entry article a img {
-  opacity: 1;
+  opacity: 0.8;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -5149,30 +5149,30 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+  font-size: 30px;
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 24px;
 }
 h3,
 .h3 {
-  font-size: 24px;
+  font-size: 18px;
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 14px;
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 12px;
 }
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 10px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 0 5px;
 }
 .lead {
   margin-bottom: 20px;
