@@ -378,6 +378,12 @@ p {
     float: right;
   }
 }
+.fh5co-article-content {
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: #000;
+}
 .fh5co-post-entry.single-entry .fh5co-article-title {
   font-size: 40px;
 }
@@ -469,6 +475,7 @@ p {
 }
 .fh5co-post-entry article .content-article {
   padding-top: 4em;
+  font-size: 5px;
 }
 .fh5co-post-entry article .content-article a {
   text-decoration: none;
