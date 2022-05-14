@@ -12741,3 +12741,8 @@ html[xmlns] .flexslider .slides {
 .hljs-strong {
   font-weight: bold;
 }
+
+      body {
+        background: rgba(255, 255, 255, 0.9);
+      }
+    
